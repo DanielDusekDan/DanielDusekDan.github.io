@@ -92,7 +92,7 @@ a:hover {
     color: rgb(17, 17, 17); 
 }
 
-@media (max-width: 37.5rem) {
+@media (max-width: 31.25rem) {
   #navbar ul li a span {
     display: none;
   }
