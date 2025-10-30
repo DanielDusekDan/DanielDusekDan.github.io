@@ -149,3 +149,33 @@ footer {
     gap: 1rem;
   }
 }
+
+
+footer {
+    text-align: center;
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+footer p {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+footer a {
+    background-color: transparent;
+    padding: 0;
+}
+
+footer a:hover {
+    background-color: transparent;
+    opacity: 0.8;
+}
+
+footer img {
+    margin: 0;
+    box-shadow: none;
+}
